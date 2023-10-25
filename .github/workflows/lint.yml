@@ -1,0 +1,32 @@
+name: Linter CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run linter
+      run: npm run lint
+
+    - name: Push changes to all remotes
+      run: |
+        git remote add  first-remote https://github.com/Projet-GIT-resto/Resto
+        git remote add  second-remote C:\Users\jay-9\OneDrive\Documents\ESGI COURS\Cours Versonning an Git\Resto
+        git push first-remote main
+        git push second-remote main
