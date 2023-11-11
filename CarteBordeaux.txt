@@ -1,0 +1,24 @@
+--- Carte du Restaurant ---
+
+Entrées:
+
+Soupe du jour - Une délicieuse soupe préparée avec des ingrédients frais.
+Salade César - Romaine croquante, croûtons, parmesan et vinaigrette César.
+Carpaccio de bœuf - Tranches fines de bœuf marinées, câpres, roquette et parmesan.
+Bruschetta à la tomate - Tomates fraîches, ail, basilic, huile d'olive sur du pain grillé.
+Crevettes à l'ail - Crevettes sautées à l'ail, citron et persil.
+Plats Principaux:
+
+Filet de saumon grillé - Filet de saumon grillé servi avec des légumes de saison.
+Steak de bœuf au poivre - Steak de bœuf grillé avec une sauce au poivre, accompagné de pommes de terre rôties.
+Pâtes Alfredo aux crevettes - Pâtes fettuccine crémeuses avec des crevettes sautées à l'ail. P
+Poulet rôti aux herbes - Poulet rôti à la perfection avec des herbes fraîches, servi avec une purée de pommes de terre.
+Risotto aux champignons - Risotto crémeux aux champignons sauvages et parmesan.
+
+Desserts:
+
+Tiramisu - Le dessert italien classique au mascarpone et au café.
+Crème brûlée - Crème vanillée avec une croûte caramélisée.
+Mousse au chocolat - Mousse légère au chocolat noir, garnie de chantilly.
+Tarte aux pommes - Tarte aux pommes maison avec une boule de glace à la vanille.
+Sorbet aux fruits - Sélection de sorbets aux saveurs de saison.
